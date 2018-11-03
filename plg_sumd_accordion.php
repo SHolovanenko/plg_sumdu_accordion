@@ -1,7 +1,7 @@
 <?php
 defined( '_JEXEC' ) or die;
 
-class plgContentPlg_sumd_accordion extends JPlugin
+class plgContentPlg_sumdu_accordion extends JPlugin
 {
 	/**
 	 * Load the language file on instantiation. Note this is only available in Joomla 3.1 and higher.

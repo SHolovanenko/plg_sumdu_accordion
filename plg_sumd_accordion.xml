@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content">
+	<name>plg_sumd_accordion</name>
+	<author>Sergei Holovanenko</author>
+	<creationDate>November 2018</creationDate>
+	<copyright>Public copyright license</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>serhii.holovanenko@jgmail.com</authorEmail>
+	<!--<authorUrl>www.localhost</authorUrl>-->
+	<version>1.0.0</version>
+	<description>PLG_CONTENT_WRAP_ACCORION</description>
+	<files>
+		<filename plugin="plg_sumd_accordion">plg_sumd_accordion.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.plg_sumd_accordion.ini</language>
+		<language tag="en-GB">en-GB.plg_sumd_accordion.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+		</fields>
+	</config>
+</extension>

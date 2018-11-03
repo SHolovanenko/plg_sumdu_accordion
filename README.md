@@ -1,7 +1,7 @@
 # plg_sumdu_accordion
 Plugin (Joomla 3.x) to wrap content into the accordion tabs
 
-To install [Download .zip](https://github.com/SHolovanenko/plg_sumdu_accordion/blob/master/plg_sumdu_accordion.zip) archive, instal it cia admin panel on your site (Extensions > Manage > Install > Upload Package File)
+To install [Download .zip](https://github.com/SHolovanenko/plg_sumdu_accordion/blob/master/plg_sumdu_accordion.zip) archive, instal it via admin panel on your site (Extensions > Manage > Install > Upload Package File)
 
 Do not forget to turn on plugin after install.
 

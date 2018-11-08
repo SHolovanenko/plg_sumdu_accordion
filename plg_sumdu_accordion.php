@@ -38,9 +38,10 @@ class plgContentPlg_sumdu_accordion extends JPlugin
                                 '. $tab['title'] .'
                             </a>
                         </div>
-                    <div id="collapse_sumdu_accordion_'. $tab['id'] .'" class="accordion-body collapse">
-                        <div class="accordion-inner">
-                            '. $tab['content'] .'
+                        <div id="collapse_sumdu_accordion_'. $tab['id'] .'" class="accordion-body collapse">
+                            <div class="accordion-inner">
+                                '. $tab['content'] .'
+                            </div>
                         </div>
                     </div>';
             }
